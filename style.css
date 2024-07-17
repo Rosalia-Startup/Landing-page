@@ -267,8 +267,13 @@ body {
 
 /*ALIADOS*/
 
+.aliados{
+    background-color: white !important;
+}
+
 .aliados h2{
     font-weight: bold;
+    color: #232023 !important;
     
 }
 
