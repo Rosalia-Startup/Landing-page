@@ -418,6 +418,10 @@ body {
     margin: 0;
 }
 
+.custom-link {
+    text-decoration: none;
+}
+
 .light-button button.bt {
     position: relative;
     height: 160px;
