@@ -126,9 +126,9 @@ body {
 
 .main-header {
     position: relative;
-    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(img/campesino.jpg) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(img/campesino.jpg) no-repeat center center;
     background-size: cover;
-    height: 60vh;
+    height: 100vh;
     margin-top: 80px;
 }
 
@@ -169,12 +169,13 @@ body {
 .button {
     background-color: #00000049;
     color: #28FEFE;
-    width: 12em;
-    height: 2.9em;
+    width: 15em;
+    height: 3em;
     border: #28FEFE 0.2em solid;
     border-radius: 11px;
     text-align: right;
     transition: all 0.6s ease;
+    margin-top: 15px;
 }
 
 .button:hover {
